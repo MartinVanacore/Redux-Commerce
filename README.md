@@ -20,6 +20,9 @@ https://martinvanacore.com
 
 This practice project was done with React, Redux, React Router and Axios. Consuming data from the web https://fakestoreapi.com/ simulating an e-commerce web. The styles were made with the Semantic UI framework.
 
+
+**The project online in netlify** https://redux-commerce.netlify.app/
+
 ## About me:
 I'm Martin Vanacore, Junior ReactJS developer. Training to be FullStack with orientation in DevOps, passionate about learning, technology and digital business.
 
